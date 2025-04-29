@@ -1,0 +1,107 @@
+2025-04-28 05:09:25 INFO  Utils:112 - [TestNG] Running:
+  /Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_10/master.xml
+
+2025-04-28 05:09:28 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 05:09:28 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 05:09:28 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 05:09:28 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 05:09:28 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 05:09:28 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 05:09:57 INFO  Utils:112 - [TestNG] Running:
+  /Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_10/master.xml
+
+2025-04-28 05:09:59 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 05:09:59 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 05:09:59 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 05:09:59 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 05:09:59 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 05:09:59 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 05:10:00 INFO  TC002_LoginTest:47 - Login successful, My Account page is displayed
+2025-04-28 05:10:00 INFO  TC002_LoginTest:53 - Ending TC002_LoginTest
+2025-04-28 05:11:23 INFO  Utils:112 - [TestNG] Running:
+  /Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_10/master.xml
+
+2025-04-28 05:11:34 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 05:11:34 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 05:11:35 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 05:11:35 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 05:11:35 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 05:11:35 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 05:11:35 INFO  TC002_LoginTest:47 - Login successful, My Account page is displayed
+2025-04-28 05:11:35 INFO  TC002_LoginTest:53 - Ending TC002_LoginTest
+2025-04-28 05:12:31 INFO  Utils:112 - [TestNG] Running:
+  /Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_10/master.xml
+
+2025-04-28 05:12:53 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 05:12:54 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 05:12:56 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 05:12:57 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 05:12:58 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 05:12:59 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 05:12:59 INFO  TC002_LoginTest:47 - Login successful, My Account page is displayed
+2025-04-28 05:12:59 INFO  TC002_LoginTest:53 - Ending TC002_LoginTest
+2025-04-28 05:14:13 INFO  Utils:112 - [TestNG] Running:
+  /Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_10/master.xml
+
+2025-04-28 05:14:28 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 05:14:29 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 05:14:30 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 05:14:31 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 05:14:31 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 05:14:32 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 05:14:32 INFO  TC002_LoginTest:47 - Login successful, My Account page is displayed
+2025-04-28 05:14:32 INFO  TC002_LoginTest:53 - Ending TC002_LoginTest
+2025-04-28 19:54:57 INFO  Utils:112 - [TestNG] Running:
+  /Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_10/master.xml
+
+2025-04-28 19:55:09 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 19:55:10 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 19:55:12 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 19:55:12 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 19:55:13 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 19:55:14 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 19:55:15 INFO  TC002_LoginTest:47 - Login successful, My Account page is displayed
+2025-04-28 19:55:15 INFO  TC002_LoginTest:53 - Ending TC002_LoginTest
+2025-04-28 20:22:33 INFO  Utils:112 - [TestNG] Running:
+  /Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/master.xml
+
+2025-04-28 20:22:36 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 20:22:36 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 20:22:37 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 20:22:37 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 20:22:37 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 20:22:37 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 20:22:37 INFO  TC002_LoginTest:47 - Login successful, My Account page is displayed
+2025-04-28 20:22:37 INFO  TC002_LoginTest:53 - Ending TC002_LoginTest
+2025-04-28 20:27:24 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 20:27:24 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 20:27:24 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 20:27:24 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 20:27:24 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 20:27:24 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 20:27:24 INFO  TC002_LoginTest:47 - Login successful, My Account page is displayed
+2025-04-28 20:27:24 INFO  TC002_LoginTest:53 - Ending TC002_LoginTest
+2025-04-28 21:25:15 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 21:25:15 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 21:25:16 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 21:25:16 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 21:25:16 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 21:25:16 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 21:25:16 INFO  TC002_LoginTest:47 - Login successful, My Account page is displayed
+2025-04-28 21:25:16 INFO  TC002_LoginTest:53 - Ending TC002_LoginTest
+2025-04-28 21:27:18 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 21:27:18 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 21:27:19 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 21:27:19 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 21:27:19 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 21:27:19 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 21:27:19 INFO  TC002_LoginTest:47 - Login successful, My Account page is displayed
+2025-04-28 21:27:19 INFO  TC002_LoginTest:53 - Ending TC002_LoginTest
+2025-04-28 21:33:39 INFO  TC002_LoginTest:14 - **** Starting TC002_LoginTest ****
+2025-04-28 21:33:39 INFO  TC002_LoginTest:20 - Clicked on My Account
+2025-04-28 21:33:39 INFO  TC002_LoginTest:23 - Clicked on Login
+2025-04-28 21:33:39 INFO  TC002_LoginTest:29 - Entered email address
+2025-04-28 21:33:39 INFO  TC002_LoginTest:32 - Entered password
+2025-04-28 21:33:39 INFO  TC002_LoginTest:35 - Clicked on Login button
+2025-04-28 21:33:39 INFO  TC002_LoginTest:47 - Login successful, My Account page is displayed
+2025-04-28 21:33:39 INFO  TC002_LoginTest:53 - Ending TC002_LoginTest

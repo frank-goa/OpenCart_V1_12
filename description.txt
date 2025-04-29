@@ -1,0 +1,13 @@
+
+copied from OpenCart_V10
+but running on local(not remote)
+
+not from OpenCart_V10 since the docker setup in not working
+
+ContinousIntegration part 1
+
+pom.xml
+
+plugins:-
+maven compiler plugin
+maven surefire plugin

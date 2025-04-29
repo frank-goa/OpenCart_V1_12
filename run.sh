@@ -1,0 +1,2 @@
+cd Eclipse_Workspace_OpenCart/OpenCart_V1_12/
+mvn test

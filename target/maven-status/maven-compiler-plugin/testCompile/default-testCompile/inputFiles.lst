@@ -1,0 +1,12 @@
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/pageObjects/AccountRegistrationPage.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/pageObjects/BasePage.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/pageObjects/HomePage.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/pageObjects/LoginPage.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/pageObjects/MyAccountPage.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/testBase/BaseClass.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/testCases/TC001_AccountRegistrationTest.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/testCases/TC002_LoginTest.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/testCases/TC003_LoginDDT.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/utilities/DataProviders.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/utilities/ExcelUtility.java
+/Users/frank/Eclipse_Workspace_OpenCart/OpenCart_V1_12/src/test/java/utilities/ExtentReportManager.java
